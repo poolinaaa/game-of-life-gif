@@ -3,6 +3,10 @@
 ## Description:
 This project implements Conway's Game of Life, a cellular automaton devised by mathematician John Conway. The game consists of a grid of cells that can be either alive or dead, and it evolves over generations based on a set of simple rules. The simulation is implemented in Python and includes the generation of an animated GIF to visualize the evolving patterns. You could adjust parameters for your needs (including size of the board, number of frames and probability of cell survival).
 
+<p align = center>
+    <img src = 'https://github.com/poolinaaa/game-of-life-gif/assets/125304122/40ed88e1-b484-4de9-ae83-a69b2c0fb2c2'>
+</p>
+
 Conway's Game of Life Rules:
 
 Conway's Game of Life is a cellular automaton with a simple set of rules that dictate how the state of the grid evolves over time. It was devised by mathematician John Conway and has become a classic example of emergent behavior and complexity in a simple system. The game is played on a two-dimensional grid of cells, and each cell can be in one of two states: alive or dead.
