@@ -48,7 +48,7 @@ Creates an animated GIF to visualize the simulation.
 
 ### Dependencies:
 
-   - Python 3.x
+   - Python
    - NumPy
    - Matplotlib
    - svgpathtools and svgpath2mpl for SVG path parsing
